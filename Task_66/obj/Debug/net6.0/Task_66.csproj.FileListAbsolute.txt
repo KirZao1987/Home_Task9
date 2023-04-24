@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/bin/Debug/net6.0/Task_66
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/bin/Debug/net6.0/Task_66.deps.json
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/bin/Debug/net6.0/Task_66.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/bin/Debug/net6.0/Task_66.dll
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/bin/Debug/net6.0/Task_66.pdb
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.dll
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/refint/Task_66.dll
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.pdb
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/Task_66.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Home_Task/Task_66/obj/Debug/net6.0/ref/Task_66.dll
